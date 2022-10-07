@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fernando Ximenes
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 📫 How to reach me fxdias@gmail.com
 
 <!---
